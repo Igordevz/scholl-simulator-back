@@ -5,6 +5,9 @@ export interface Iuser extends Document{
     email: string,
     turma: string,
     password: string,
+    infostudent: [],
+    account_aprovat: boolean,
+    token: string
 }
 
 export const userschema = new Schema<Iuser>({
@@ -23,6 +26,18 @@ export const userschema = new Schema<Iuser>({
     password: {
         type: String,
         required: true,
+    },
+    infostudent: { 
+        type: [],
+        required: false
+    },
+    account_aprovat: {
+        type: Boolean,
+        required: true,
+    },
+    token: {
+        type: String,
+        required: true
     }
 }) 
 
