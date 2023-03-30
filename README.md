@@ -2,7 +2,8 @@
 ![image](https://user-images.githubusercontent.com/111516927/228700738-e750ee5a-1a10-4695-a275-5a1a347ab4a7.png)
 
 CRIADO EM NODEJS
-![image](https://user-images.githubusercontent.com/111516927/228701186-f13cd6f6-bccf-4a40-a418-8853bf19b181.png)
+![image](https://user-images.githubusercontent.com/111516927/228701409-d36871bd-37c5-4bd9-a5af-a1299efa361c.png)
+
 
 ### API COM DASBOARD PARA ALUNO 
 
